@@ -61,7 +61,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-4. Access the application at `http://localhost:8501`
+4. Access the application at (https://larisrealtimedataprocessingpipeline.streamlit.app/)`
 
 ## Deployment on Streamlit Cloud
 
@@ -165,4 +165,5 @@ For technical issues or questions:
 1. Review the troubleshooting section
 2. Check processing logs for detailed error information
 3. Verify configuration settings and data formats
+
 4. Consult the monitoring dashboard for performance insights
